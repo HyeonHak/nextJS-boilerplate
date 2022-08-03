@@ -1,0 +1,15 @@
+name: lint workflow
+on:
+  pull_request:
+    branches:
+      - master
+      -
+jobs:
+  lint:
+    name: lint check
+    steps:
+      - name: lint
+        run: |
+          yarn ci
+          yarn lint
+
