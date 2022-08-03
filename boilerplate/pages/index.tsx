@@ -7,6 +7,7 @@ const Home: NextPage = () => {
       <>
         <div>boilerplate</div>
         <div>1. Add github action for lint</div>
+        <div>2. Test lint github action</div>
       </>
   )
 }
