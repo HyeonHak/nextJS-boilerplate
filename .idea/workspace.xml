@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92ccfae6-6bba-4477-a30c-34bac82268c5" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.github/workflow/lint.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/lint.yml" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +25,24 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+<<<<<<< HEAD
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1659490475" />
                   </RecentBranch>
                   <RecentBranch>
+=======
+>>>>>>> master
                     <option name="branchName" value="4-Test-github-action" />
                     <option name="lastUsedInstant" value="1659489978" />
                   </RecentBranch>
                   <RecentBranch>
+<<<<<<< HEAD
+=======
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1659489859" />
+                  </RecentBranch>
+                  <RecentBranch>
+>>>>>>> master
                     <option name="branchName" value="3-Test-github-action" />
                     <option name="lastUsedInstant" value="1659489858" />
                   </RecentBranch>
@@ -70,7 +84,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659489568535</updated>
+<<<<<<< HEAD
       <workItem from="1659489569673" duration="904000" />
+=======
+      <workItem from="1659489569673" duration="630000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
