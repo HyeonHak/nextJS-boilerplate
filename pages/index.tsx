@@ -4,7 +4,7 @@ const Home: NextPage = () => {
   return (
     <div>
       1. test lint github action
-    </div>
+        </div>
   )
 }
 
